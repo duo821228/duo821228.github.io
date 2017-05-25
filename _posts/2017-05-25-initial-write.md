@@ -2,6 +2,7 @@
 layout: post
 title: "첫번째 포스팅"
 description: "첫 포스팅임."
+date: 2017-05-25
 tags: [샘플 포스트, 테스트, 개인 일상]
 comments: true
 share: true
