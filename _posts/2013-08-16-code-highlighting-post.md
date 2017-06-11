@@ -5,7 +5,7 @@ description: "Demo post displaying the various ways of highlighting code in Mark
 date: 2013-08-16
 tags: [sample post, code, highlighting]
 comments: true
-share: true
+share: false
 ---
 
 
