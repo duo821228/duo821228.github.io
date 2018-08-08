@@ -84,5 +84,5 @@ gems:
   - jekyll-paginate
   - jekyll-admin
 
-include:            - "_img"
+include:            "_img"
 exclude:            [vendor]
