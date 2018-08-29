@@ -2,7 +2,7 @@
 layout: post
 title: "Industrial Network 기술 시장 점유율 동향."
 description: "HMS사의 Annual Report (2018.02)"
-date: 2018-08-06
+date: 2018-08-13
 tags: [Industrial Ethernet, Market Share, Market Trend]
 comments: true
 share: false
